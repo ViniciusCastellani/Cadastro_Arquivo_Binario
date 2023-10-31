@@ -2,8 +2,7 @@
 #include <fstream>
 #include <iomanip>
 #include <string>
-#include "D:\PROGRAMACAO\BIBLIOTECAS\myLibc++.cpp"
-
+#include "myLibc++.cpp"
 using namespace std;
 
 /*
